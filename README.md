@@ -61,6 +61,21 @@ Performance Metrics:
 
 ---
 
+## Visualizations
+
+### Customer Churn Distribution
+
+![Churn Distribution](images/churn_distribution.png)
+
+### Monthly Charges vs Churn
+
+![Monthly Charges vs Churn](images/monthly_charges_churn.png)
+
+### Tenure vs Churn
+
+![Tenure vs Churn](images/tenure_churn.png)
+
+
 ## Technologies Used
 
 * Python
