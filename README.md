@@ -42,7 +42,8 @@ Customer churn is a major problem for businesses. This project predicts whether 
 ---
 ## 📸 App Preview
 
-![App Screenshot](app_screenshot.png)
+![App Screenshot](app_inputscreenshot.png)
+![App Screenshot](app_outputscreenshot.png)
 
 ## 📂 How to Run Locally
 
