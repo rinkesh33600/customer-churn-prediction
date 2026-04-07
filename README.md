@@ -45,6 +45,8 @@ Customer churn is a major problem for businesses. This project predicts whether 
 ![App Screenshot](app_inputscreenshot.png)
 ![App Screenshot](app_outputscreenshot.png)
 
+---
+
 ## 📂 How to Run Locally
 
 ```bash
