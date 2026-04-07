@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Live App
-👉 [Click here to use the app](YOUR_STREAMLIT_LINK)
+👉 [Click here to use the app](https://customer-churn-predictionrinkesh8430.streamlit.app/)
 
 ---
 
