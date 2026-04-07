@@ -1,52 +1,48 @@
-\# 📊 Customer Churn Prediction App
+# 📊 Customer Churn Prediction App
 
+An end-to-end Machine Learning project to predict customer churn and help businesses improve retention.
 
+---
 
-This is an end-to-end Machine Learning project that predicts whether a customer is likely to churn.
+## 🚀 Live App
+👉 [Click here to use the app](YOUR_STREAMLIT_LINK)
 
+---
 
+## 📌 Problem Statement
+Customer churn is a major problem for businesses. This project predicts whether a customer is likely to leave based on their behavior and service usage.
 
-\## 🚀 Features
+---
 
-\- Predict customer churn probability
+## 🧠 Solution
+- Built a Machine Learning model using Random Forest
+- Achieved ~86% ROC-AUC
+- Deployed using Streamlit for real-time predictions
 
-\- Interactive UI using Streamlit
+---
 
-\- Real-time prediction
+## 📊 Features
+- Predict churn probability
+- Classify customers into risk categories
+- Interactive user interface
 
-\- Business insights (Low / Medium / High risk)
+---
 
+## 🛠️ Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
 
+---
 
-\## 🧠 Models Used
+## 📈 Model Performance
+- ROC-AUC: ~0.86
+- Accuracy: ~0.81
 
-\- Logistic Regression
+---
 
-\- Random Forest (Final Model)
-
-\- XGBoost
-
-
-
-\## 📈 Project Workflow
-
-1\. Data Cleaning \& Preprocessing
-
-2\. Feature Engineering
-
-3\. Model Training \& Evaluation
-
-4\. Hyperparameter Tuning
-
-5\. Model Deployment using Streamlit
-
-
-
-\## 🖥️ Run Locally
-
-
+## 📂 How to Run Locally
 
 ```bash
-
 streamlit run app.py
-
