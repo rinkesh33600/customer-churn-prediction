@@ -1,7 +1,6 @@
 # 📊 Customer Churn Prediction App
 
-An end-to-end Machine Learning project to predict customer churn and help businesses improve retention.
-
+⭐ This project demonstrates a complete end-to-end Machine Learning pipeline from data preprocessing to model deployment using Streamlit.
 ---
 
 ## 🚀 Live App
