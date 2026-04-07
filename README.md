@@ -40,6 +40,9 @@ Customer churn is a major problem for businesses. This project predicts whether 
 - Accuracy: ~0.81
 
 ---
+## 📸 App Preview
+
+![App Screenshot](app_screenshot.png)
 
 ## 📂 How to Run Locally
 
